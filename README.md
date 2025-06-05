@@ -3,10 +3,6 @@
 
 ### Today study GIt!  
 ##Does it works?
-I love software project
-<br>
-Trying Fetch...
-
 
 <Todo List>
 1.git base<br>
