@@ -4,3 +4,6 @@ Kookmin Univ    SW1br>
 Studying final exam!
 
 Today is last session..
+
+### Today study GIt!  
+I love software project
