@@ -1,4 +1,6 @@
 # DEMO: Study for exam...
 20252414    Cho eunseo<br>
-Kookmin Univ    SW1/A+<br>
+Kookmin Univ    SW1br>
 Studying final exam!
+
+Today is last session..
